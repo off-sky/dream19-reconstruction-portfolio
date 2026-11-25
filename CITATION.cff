@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this research software release and the individual data sources used."
+title: "DREAM19: data-driven selection of bridge reconstruction portfolios"
+authors:
+  - family-names: Pashkovskyi
+    given-names: Roman
+version: "1.0.0"
+date-released: 2026-11-25
+type: software
+license: MIT

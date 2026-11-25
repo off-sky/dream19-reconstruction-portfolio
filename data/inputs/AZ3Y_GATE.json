@@ -1,0 +1,47 @@
+{
+  "stage": "AZ3Y",
+  "status": "PILOT_COMPLETE_CONDITIONAL_NOT_NATIONAL_Q",
+  "M22_not_training": true,
+  "national_Q_estimated": false,
+  "time_choice_parameter_is_not_calibrated": true,
+  "interzone_model_unchanged": true,
+  "maxnodes_per_zone": 32,
+  "n_requested": 2400,
+  "local_h_options": [
+    "INF",
+    10,
+    20,
+    40
+  ],
+  "sources_verified": {
+    "AZ3S_SHA_FILES": 9,
+    "AZ3U_SHA_FILES": 16,
+    "AZ3W_SHA_FILES": 12
+  },
+  "source_support": {
+    "frozen_70_zones": 70,
+    "eligible_before_graph": 65,
+    "POP_unallocated_outside_10km_settlement_nodes": 11744.416629775998
+  },
+  "n_zone_tables_ok": 65,
+  "n_zone_tables_failed": 0,
+  "max_merged_POP_fraction": 0.42713187553490956,
+  "weighted_merged_POP_fraction": 0.1213617304925129,
+  "sampling": {
+    "zone_sampling_mixture": "HALF_UNIFORM_HALF_POP",
+    "n_active_zones": 65,
+    "proposal_pair": "EQUAL_MIXTURE_OF_EIGHT_TIME_DESTINATION_VARIANTS",
+    "destination_8_weights_integrate_to_one": true
+  },
+  "routes": {
+    "unique_route_pairs": 1431,
+    "route_cache_hits": 0,
+    "route_status": {
+      "OK": 2400
+    }
+  },
+  "fixed_interzone_common_support_sites": 87,
+  "n_local_variants": 8,
+  "n_local_sites_strict_ESS20_RSE20": 0,
+  "time_penalty_applied_BEFORE_destination_choice": true
+}

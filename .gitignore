@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+private/
+restricted*/
+.env*
+*.log
+recomputed/
+CH3_PUBLIC_RUN_*

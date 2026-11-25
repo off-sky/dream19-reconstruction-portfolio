@@ -1,0 +1,8 @@
+{
+  "n_masks": 86,
+  "missing_hit_inter_minutes": 0.0,
+  "missing_hit_local_minutes": 3.4136721868216692e-09,
+  "all_inter_minutes": 0.34483589428818734,
+  "all_local_minutes": 0.010772109845631926,
+  "warning": "Route-hit proxy; not a lower bound or a valid counterfactual benefit. No tuning by AADT or TomTom."
+}

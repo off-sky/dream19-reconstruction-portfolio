@@ -1,0 +1,30 @@
+{
+  "opened_way_count": 20,
+  "opened_ways_with_route_evidence": 20,
+  "per_way_route_evidence": {
+    "106090015": true,
+    "1125804870": true,
+    "1188173088": true,
+    "1225652742": true,
+    "1225652743": true,
+    "125164437": true,
+    "1318327190": true,
+    "145511470": true,
+    "147689468": true,
+    "172609366": true,
+    "176702955": true,
+    "194083439": true,
+    "212753441": true,
+    "229158173": true,
+    "284329114": true,
+    "292226843": true,
+    "329271520": true,
+    "752168567": true,
+    "848277387": true,
+    "973923609": true
+  },
+  "probes": 40,
+  "scenario": "A18_EXCEPT_S14",
+  "selected_bridge_count": 18,
+  "status": "PASS_BRIDGE_WAY_ROUTING"
+}

@@ -1,0 +1,5 @@
+dominates,dominated,also_cost_no_higher
+N03,N02,True
+P378079,N02,False
+N03,P378079,True
+B20,P347295,False

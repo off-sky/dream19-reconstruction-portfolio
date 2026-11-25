@@ -1,0 +1,22 @@
+{
+  "version": "SIX_BRIDGE_GHSL_VIIRS_EXPORT_2026_11_05_V1",
+  "nodes_sha256": "004527465838369627bfbf8095e6988dd0c9211bb2cd2e67b243a823a48096b1",
+  "zones_geojson_sha256": "0f7058204597ea072000c5a29687f9b016063f0c7f738d965a7abff465b90e55",
+  "viirs_product": "NASA/VIIRS/002/VNP46A2",
+  "ghsl_sources": [
+    "JRC/GHSL/P2023A/GHS_POP/2020",
+    "JRC/GHSL/P2023A/GHS_POP/2025",
+    "JRC/GHSL/P2023A/GHS_BUILT_S/2020",
+    "JRC/GHSL/P2023A/GHS_BUILT_S/2025"
+  ],
+  "viirs_band": "DNB_BRDF_Corrected_NTL",
+  "viirs_qa": "MandatoryQualityFlag 0 or 1, confident_clear, night, no shadow/cirrus/snow, land",
+  "years": [
+    2021,
+    2025
+  ],
+  "viirs_reduce_scale_m": 500,
+  "ghsl_reduce_scale_m": 100,
+  "ukraine_clip": "FAO/GAUL/2015/level0",
+  "mode": "full"
+}

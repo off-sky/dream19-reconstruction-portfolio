@@ -1,0 +1,24 @@
+{
+  "R1_globally_optimal_portfolio_proven_for_budget_40_and_60_pct": true,
+  "R1_numeric_value_observed": true,
+  "R1_values": {
+    "POP75_POI25": 25.05140313803339,
+    "U0_POP100": 24.35654760609492,
+    "U1_POP50_NRES50": 23.45476900321094,
+    "U2_POP50_POI50": 25.621741316062487
+  },
+  "S14_historical_cost_UAH": 5518369406.6,
+  "assumptions": [
+    "fixed frozen 19 historical costs",
+    "additive budget",
+    "open bridge does not lengthen travel times",
+    "nonnegative OD weights"
+  ],
+  "exact_optimality_budget_lower_share_inclusive": 0.39106222891437276,
+  "exact_optimality_budget_upper_share_exclusive": 0.6089377710856273,
+  "historical_cost_UAH": 3543918512.84,
+  "portfolio_id": "A18_EXCEPT_S14",
+  "proof": "For B >= cost(all except S14) and B < cost(S14), every feasible S excludes S14, hence S is a subset of all except S14. With fixed nonnegative OD weights and monotone shortest paths, V(S) <= V(all except S14).",
+  "selected": "S01+S02+S03+S04+S05+S06+S07+S08+S09+S10+S11+S12+S13+S15+S16+S17+S18+S19",
+  "total_historical_cost_UAH": 9062287919.44
+}

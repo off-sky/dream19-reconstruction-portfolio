@@ -1,0 +1,14 @@
+{
+  "old_draws": 12000,
+  "new_draws": 24000,
+  "old_factor": 0.3333333333333333,
+  "new_factor": 0.6666666666666667,
+  "weak_targets": 33,
+  "geom_nonzero": 821742,
+  "pilot_nonzero": 536,
+  "min_proposal": 5.6526556176091524e-08,
+  "max_q_over_proposal_MAIN": 6.511068965866785,
+  "max_q_over_proposal_U1": 6.648923924542524,
+  "full_support": true,
+  "AADT_used_for_proposal": false
+}

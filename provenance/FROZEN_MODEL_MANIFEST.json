@@ -1,0 +1,47 @@
+{
+  "status": "FROZEN_CONDITIONAL_ROUTED_DEMAND_NOT_ABSOLUTE_VALIDATION",
+  "source_result_sha256": "835891c4457ab54288c3e3cdf7c2c174882fd903d6c3d64228e3b7fdf6574c18",
+  "source_code_sha256": "2e3e3f93ff5dea5c7a9f327d19ba3782e1b506187f9db12d1fdd1e8c7fa74cb6",
+  "ledger_sha256": "262fccd1bfd27b33a725de71095b2613b13c4a6c45fbacf83c54a3caedd8d9cf",
+  "microzones_sha256": "a33eefe3331248887e42bddcf7f4ff7a08331d90b9a51cfd0f3171318d510f8a",
+  "parent_scope_sha256": "e517e549e39226628cd1c8324bae27f0337108005e310352abbb62a62aef3be5",
+  "target_cuts_sha256": "196f004c1314bc46c175a2405e22ad27c7f4c7af70ddeaf274d85e1506abe165",
+  "fit_sha256": "f0e42cde93805a0bfd7012cb43ad41d6ca0500d26b4abce54bd6f22467cbd253",
+  "zone_count": 941,
+  "h_minutes": 30,
+  "origin_weights_POP_NRES": [
+    0.75,
+    0.25
+  ],
+  "destination_weights_POP_NRES_POI": [
+    0.25,
+    0.5,
+    0.25
+  ],
+  "local_POP_to_POP": true,
+  "local_same_parent_only": true,
+  "grid_m": [
+    1000,
+    4000,
+    12000
+  ],
+  "radii_km": {
+    "inner": 10,
+    "core": 20,
+    "outer": 40
+  },
+  "legacy_parent_time_sha256": "309506bb5f981f3f416b39a12208090b7650db24ec99cb5ff53c9d056d0280ff",
+  "seed_P0D": 2026112409,
+  "seed_P0E": 2026112419,
+  "inter_draws_each_model": 36000,
+  "local_rows": 146354,
+  "total_rows": 218354,
+  "accepted_unique_keys": 143076,
+  "absolute_Q_validated": false,
+  "external_validation": false,
+  "portfolio_R1_unchanged": true,
+  "old_road_fit_only": true,
+  "scale_scenarios": "Distinct previous fit pairs, not confidence bounds",
+  "unknown_mass_policy": "Do not renormalize or substitute zero",
+  "time_sources": "POP/NRES2020; AADT2025; POI/OSM2026"
+}

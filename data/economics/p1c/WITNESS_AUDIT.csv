@@ -1,0 +1,7 @@
+scenario,closed_witness_rows,closed_terminal_hits,open_candidates_without_terminal_witness,historical_matrix_available
+N02,16,0,S15_WAY_106090015,False
+N03,16,0,S15_WAY_106090015,False
+B20,16,0,S15_WAY_106090015,False
+P378079,16,0,S15_WAY_106090015,True
+P347295,18,0,S15_WAY_106090015,True
+A18_EXCEPT_S14,4,0,S09_WAY_176702955;S15_WAY_106090015,True

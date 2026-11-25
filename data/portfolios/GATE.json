@@ -1,0 +1,12 @@
+{
+  "stage": "P1H",
+  "status": "BUDGET_COMPARISON_COMPLETE_REVIEW_REQUIRED",
+  "demand_refit": false,
+  "global_optimum_proven": false,
+  "absolute_scale_validated": false,
+  "screen": "OPEN_ROUTE_HIT_BUNDLE_PROXY_NOT_R1",
+  "new_graphs": 13,
+  "plan_rows": 42,
+  "old_common_keys": 143010,
+  "common_keys": 143010
+}

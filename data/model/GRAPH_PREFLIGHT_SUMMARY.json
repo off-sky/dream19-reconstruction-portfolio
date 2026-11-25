@@ -1,0 +1,23 @@
+{
+  "status": "LEGACY_REFERENCE_TIME_FINGERPRINT_PASS",
+  "legacy_match_required": 12,
+  "tolerance_seconds": 1.0,
+  "demand_snap_limit_m": 500,
+  "raw_routes_used_for_demand": false,
+  "new_anchor_times_diagnostic_only": true,
+  "scope": "12 historical reference pairs; not a full graph checksum or bridge topology certification",
+  "old": {
+    "n_requested": 12,
+    "n_raw_ok": 12,
+    "n_time_match_1s": 12,
+    "max_abs_error_seconds": 0.0007812500052750693,
+    "n_snap_le_500": 4
+  },
+  "new": {
+    "n_requested": 12,
+    "n_raw_ok": 12,
+    "n_time_match_1s": 0,
+    "max_abs_error_seconds": 1441.8996093750025,
+    "n_snap_le_500": 10
+  }
+}

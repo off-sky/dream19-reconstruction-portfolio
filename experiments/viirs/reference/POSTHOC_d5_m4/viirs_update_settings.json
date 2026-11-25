@@ -1,0 +1,11 @@
+{
+  "alpha": 0.25,
+  "ratio_clip": [
+    0.5,
+    2.0
+  ],
+  "epsilon": 0.04403429947190546,
+  "min_matched_good_months": 4,
+  "min_days_month": 5,
+  "min_fraction_pixels": 0.5
+}
